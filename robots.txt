@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://www.downloader-youtube-thumbnails.com/sitemap.xml
